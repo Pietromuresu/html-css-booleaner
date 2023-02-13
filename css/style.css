@@ -1,6 +1,8 @@
 
 
-
+body {
+  width: px;
+}
 header {
   background-image: url(immagini/pattern.png);
   background-size:contain ;
@@ -32,11 +34,6 @@ header {
   background-color:yellow;
 }
 
-.img-title {
-  font-size: 20px;
-  
-}
-
 .colored-tr{
   background-color: #B2E3F3;
   
@@ -52,3 +49,26 @@ table, .primo-testo {
   margin: 15px;
 }
 
+table {
+  margin: 0;
+}
+
+td {
+  width: 20%;
+} 
+
+.last-td {
+  width: 60%;
+}
+
+.footer-image {
+  position: relative;
+}
+
+.img-title {
+  font-size: 20px;
+  color: #ffff;
+  position:absolute;
+  left: 0 ;
+  margin: 10px;
+}
