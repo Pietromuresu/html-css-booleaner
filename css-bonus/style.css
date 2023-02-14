@@ -1,8 +1,8 @@
 main, footer {
-  width: 80%;
+  width: 60%;
   text-align: center;
-  margin-left:  10%;
-  margin-right: 10%;
+  margin-left:  20%;
+  margin-right: 20%;
 
 }
 .logo-header {
@@ -28,7 +28,7 @@ header {
   color: lightslategray;
   text-align: left;
 }
-.immagini-tim {
+.img-tim {
   width: 48%;
 }
 
@@ -63,6 +63,7 @@ table {
 
 .footer-image {
   position: relative;
+  text-align: left;
 }
 
 .img-title {
